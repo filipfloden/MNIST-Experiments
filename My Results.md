@@ -1,4 +1,5 @@
 # Här är mina resultat hittils:
+7/
 A/ Ja, vid höga inlärnings hastigheter så tappar agenten precisionen på gissningarna.
 ![Fråga A](fig/Bild1.svg "Värdena på graferna är 3, 0.37, 0.01") 
 
@@ -21,6 +22,7 @@ G/ Moved data blir bättre med djupare nätverk och fler lager, däremot avtar n
 och så blir rotated data sämmre.
 ![Fråga G](fig/Bild7.svg "Värdena på grafen har 1, 2 eller 3 lager")
 
+8/
 Eget test 1,2,3/
 enligt test i uppgift 7 så kom vi fram till att vårt bästa lr va blev 0.37 så därför fortsätter vi med det i även dessa test, Vi provade att kombinera dett amed att ändra batch sizen där vi använde 256 som basvärde och provade där efter att byta till  både 512 och 16 där 16 blev ganaska mycket sämmre än basvärdet och 512 vart lite bättre.
 ![Fråga 8](fig/Bild8.svg "Eget test 1,2,3")
